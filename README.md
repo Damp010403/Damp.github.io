@@ -1,4 +1,4 @@
-# Damp010403.github.io
+# Damp.github.io
 # My Blog
 This is my personal blog.
 
